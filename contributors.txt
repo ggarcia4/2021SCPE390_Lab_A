@@ -1,8 +1,5 @@
 TA: Hanyi Zhang
 <<<<<<< HEAD
-Students: Rhys Lee
-=======
-<<<<<<< HEAD
 Students: Joseph Perez
 =======
 Students: Claudia MacRae
@@ -21,4 +18,10 @@ Matthew Petrin
 
 Zachary Kermitz
 
+<<<<<<< HEAD
 >>>>>>> c42b402723642b63448864180e03be3d75126cb4
+=======
+Eashan Kaushik
+>>>>>>> 0426f56d8d8f374061ffb662383cda1d3746b7e5
+=======
+Rhys Lee
