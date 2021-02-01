@@ -1,2 +1,6 @@
 TA: Hanyi Zhang
+<<<<<<< HEAD
 Students: Joseph Perez
+=======
+Students: Claudia MacRae
+>>>>>>> 7fe67a19bf3f3de12459e33add63d256d24988a0
