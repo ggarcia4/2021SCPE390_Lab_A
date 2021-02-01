@@ -14,4 +14,11 @@ Students: Claudia MacRae
 
 Anthony Paolantonio
 
+<<<<<<< HEAD
 >>>>>>> 8c12ccfdfb0381a1e30accb47c8f39cebdcba7fa
+=======
+Matthew Petrin
+
+Zachary Kermitz
+
+>>>>>>> c42b402723642b63448864180e03be3d75126cb4
